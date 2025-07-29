@@ -1,3 +1,3 @@
-Flask==3.0.0
-gunicorn==21.2.0
-requests
+npm init -y
+npm install react react-dom
+npm install vite @vitejs/plugin-react --save-dev
